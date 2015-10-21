@@ -1,0 +1,5 @@
+c:\users\vladi\documents\visual studio 2015\Projects\PhotoContestApplication\PhotoContest.Data\bin\Debug\PhotoContest.Data.dll
+c:\users\vladi\documents\visual studio 2015\Projects\PhotoContestApplication\PhotoContest.Data\bin\Debug\PhotoContest.Data.pdb
+c:\users\vladi\documents\visual studio 2015\Projects\PhotoContestApplication\PhotoContest.Data\obj\Debug\PhotoContest.Data.csprojResolveAssemblyReference.cache
+c:\users\vladi\documents\visual studio 2015\Projects\PhotoContestApplication\PhotoContest.Data\obj\Debug\PhotoContest.Data.dll
+c:\users\vladi\documents\visual studio 2015\Projects\PhotoContestApplication\PhotoContest.Data\obj\Debug\PhotoContest.Data.pdb

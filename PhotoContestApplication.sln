@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{AA499F8C-E51D-49BB-9E0C-D00D60D1C7F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{E65FA975-F411-440B-9EB7-6C7958E88F2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{BE3D8C00-AF4D-4B8E-8F61-F3AB3C79204B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A24FE8B8-A778-4E70-93AC-C398C10795DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoContest.Data", "PhotoContest.Data\PhotoContest.Data.csproj", "{5DC69736-ED59-4E89-A452-DC6C0ECCEF9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoContest.Model", "PhotoContest.Model\PhotoContest.Model.csproj", "{4CFDF6F6-71D0-45EC-B812-310FC132D7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoContest.Web", "PhotoContest.Web\PhotoContest.Web.csproj", "{028D79BC-2656-4D37-8F44-2C7E833F20F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC69736-ED59-4E89-A452-DC6C0ECCEF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC69736-ED59-4E89-A452-DC6C0ECCEF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC69736-ED59-4E89-A452-DC6C0ECCEF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC69736-ED59-4E89-A452-DC6C0ECCEF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CFDF6F6-71D0-45EC-B812-310FC132D7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CFDF6F6-71D0-45EC-B812-310FC132D7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CFDF6F6-71D0-45EC-B812-310FC132D7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CFDF6F6-71D0-45EC-B812-310FC132D7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028D79BC-2656-4D37-8F44-2C7E833F20F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028D79BC-2656-4D37-8F44-2C7E833F20F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028D79BC-2656-4D37-8F44-2C7E833F20F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028D79BC-2656-4D37-8F44-2C7E833F20F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5DC69736-ED59-4E89-A452-DC6C0ECCEF9D} = {E65FA975-F411-440B-9EB7-6C7958E88F2E}
+		{4CFDF6F6-71D0-45EC-B812-310FC132D7FE} = {BE3D8C00-AF4D-4B8E-8F61-F3AB3C79204B}
+		{028D79BC-2656-4D37-8F44-2C7E833F20F5} = {AA499F8C-E51D-49BB-9E0C-D00D60D1C7F2}
+	EndGlobalSection
+EndGlobal
